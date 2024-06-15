@@ -1,1 +1,2 @@
-# 33.2
+Javascript Promises- Asynchronous Code
+practice with aysnc request with getJSON 
